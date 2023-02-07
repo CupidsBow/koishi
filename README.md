@@ -21,6 +21,7 @@ cmd 跑 bot.py，再跑 gocqhttp。
 
 - [nonebot2](https://github.com/nonebot/nonebot2)
 - [gocqhttp](https://github.com/Mrs4s/go-cqhttp)
+- [BruceKZ](https://github.com/BruceKZ)
 
 # 题外话
 
