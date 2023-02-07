@@ -22,7 +22,7 @@ async def auto_update():
     await get_nowcoder()
     await bot.send_msg(
         message_type="private",
-        user_id=int(1143957699),
+        user_id=# 写自己的 QQ 号,
         message="更新成功"
     )
 
