@@ -26,7 +26,6 @@ today
 next
 update
 help
-QQ -> 1143957699
 '''
     ))
 
