@@ -1,0 +1,8 @@
+nonebot2
+datetime
+time
+requests
+json
+asyncio
+uvicorn
+nonebot_plugin_apscheduler
