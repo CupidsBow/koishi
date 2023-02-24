@@ -17,8 +17,9 @@
 
 # 如何使用
 
+安装 requirement.txt 中的插件。`pip install -r requirement.txt`\
 .env.dev 文件加超管，不加也没事。\
-schedule 插件添加「更新数据」的消息接收方。\
+schedule 插件添加「更新数据」的消息接收方。(line 26)\
 cmd 跑 bot.py，再跑 gocqhttp。
 
 # 特别感谢
