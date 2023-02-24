@@ -17,10 +17,10 @@
 
 # 如何使用
 
+bot 文件夹是 bot 主体，下载完和 gocqhttp 一起用就行，具体可以查看官方文档 [nonebot2](https://nb2.baka.icu/)。\
 安装 requirement.txt 中的插件。`pip install -r requirement.txt`\
 .env.dev 文件加超管，不加也没事。\
 schedule 插件添加「更新数据」的消息接收方。(line 26)\
-cmd 跑 bot.py，再跑 gocqhttp。
 
 # 特别感谢
 
